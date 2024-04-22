@@ -1,6 +1,7 @@
 # TilesG
 
-TilesG is just a simple arcade game. It's a relaxing game that helps improve your speed and accuracy. (works like aimlab for sure) :-D
+TilesG is just a simple arcade game.
+The game is about achieving the highest score possible within 30 seconds. The faster you click, the more points you'll earn thanks to a multiplier.
 
 ## Game Design
 
