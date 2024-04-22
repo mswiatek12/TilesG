@@ -2,7 +2,7 @@
 
 TilesG is just a simple arcade game.
 The game is about achieving the highest score possible within 30 seconds. The faster you click, the more points you'll earn thanks to a multiplier.
-Be aware that tilesG is a game in ALPHA version. It has not had an official release yet. A professional team of developers (just me) is currently working on making the gaming experience more enjoyable.
+Be aware that tilesG is a game in ALPHA version. It has not had an official release yet. A professional team of developers(just me) is continuously working to enhance the gaming experience and ensure maximum enjoyment.
 
 ## Game Design
 
