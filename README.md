@@ -5,7 +5,8 @@ The game is about achieving the highest score possible within 30 seconds. The fa
 
 ## Game Design
 
-![image](https://github.com/mswiatek12/TilesG/assets/152070484/da0fb754-804f-4d18-8c17-b94072ce89ec)
+![image](https://github.com/mswiatek12/TilesG/assets/152070484/783de32c-40e3-4a16-888c-6c7d5b092b1b)
+
 
 ## Built With
 
