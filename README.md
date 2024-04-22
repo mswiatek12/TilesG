@@ -20,4 +20,4 @@ To play TilesG you just need to download the executable file provided above.
 
 # Disclaimer
 
-Be aware that tilesG is a game in ALPHA version. It has not had an official release yet. A professional team of developers(just me) is continuously working to enhance the gaming experience and ensure maximum enjoyment.
+Be aware that TilesG is a game in ALPHA version. It has not had an official release yet. A professional team of developers(just me) is continuously working to enhance the gaming experience and ensure maximum enjoyment.
